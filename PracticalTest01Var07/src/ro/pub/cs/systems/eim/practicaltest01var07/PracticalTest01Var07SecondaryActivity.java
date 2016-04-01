@@ -16,6 +16,7 @@ public class PracticalTest01Var07SecondaryActivity extends Activity {
 	private TextView textViewName, textViewGroup;
 	private Button okButton, cancelButton;
 	
+	
 	private OnClickListener onClickListener = new OnClickListener() {
 		@Override
 		public void onClick(View v) {
