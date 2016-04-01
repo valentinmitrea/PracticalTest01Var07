@@ -1,2 +1,2 @@
-Nume: Mitrea Valentin Gabriel
-Grupa: 342C3
+# Nume: Mitrea Valentin Gabriel
+# Grupa: 342C3
