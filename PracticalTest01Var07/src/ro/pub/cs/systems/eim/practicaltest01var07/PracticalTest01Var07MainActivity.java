@@ -77,8 +77,7 @@ public class PracticalTest01Var07MainActivity extends Activity {
 	BroadcastReceiver broadcastReceiver = new BroadcastReceiver() {
 		@Override
 		public void onReceive(Context context, Intent intent) {
-			Toast.makeText(PracticalTest01Var07MainActivity.this, intent.getStringExtra("message"), Toast.LENGTH_LONG).show();
-			//Log.d("[Message]", intent.getStringExtra("message"));
+			Log.d("[Message]", intent.getStringExtra("message"));
 		}
 	};
 	
