@@ -1,1 +1,2 @@
-# PracticalTest01Var07
+Nume: Mitrea Valentin Gabriel
+Grupa: 342C3
